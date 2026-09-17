@@ -1,0 +1,16 @@
+{
+    "name": "symbolist/hetrixtools-php",
+    "description": "A lightweight PHP client for the HetrixTools API v3",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Symbolist\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
