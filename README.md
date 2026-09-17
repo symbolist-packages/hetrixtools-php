@@ -25,6 +25,8 @@ require __DIR__ . '/vendor/autoload.php';
 ## Quick start
 
 ```php
+<?php
+
 use Symbolist\Hetrixtools;
 
 try {
